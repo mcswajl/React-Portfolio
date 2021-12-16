@@ -42,7 +42,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Mock-Up
 The following animation shows my web application functionality (yes, the is my local version, I deployed the app to GitHub using npm run deploy):
-[Homework Demo 04 (video)] (https://watch.screencastify.com/v/fss3w0ygHzCkgZwnvzE6)
+![Screenshot](./src/assests/cover/Gif.gif)
+[Homework Demo 01 (video)] (https://watch.screencastify.com/v/fss3w0ygHzCkgZwnvzE6)
 
 
 ## Application Includes
