@@ -41,8 +41,7 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 
 ## Mock-Up
-The following animation shows my web application functionality (yes, the is my local version, I deployed the app to GitHub using npm run deploy):
-![Screenshot](./Portfolio/src/assets/cover/Gif.gif)
+The following animation shows my web application functionality (yes, the is my local version, I deployed the app to GitHub using npm run deploy): ![Screenshot](./Portfolio/src/assets/cover/Gif.gif)
 
 [Homework Demo 01 (video)] (https://watch.screencastify.com/v/fss3w0ygHzCkgZwnvzE6)
 
