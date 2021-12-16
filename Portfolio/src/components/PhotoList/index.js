@@ -36,30 +36,30 @@ const PhotoList = ({ category }) => {
   //     description:
   //       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
   //   },
-  //   {
-  //     name: 'Cat green eyes',
-  //     category: 'projects',
-  //     description:
-  //       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
-  //   },
-  //   {
-  //     name: 'Green parrot',
-  //     category: 'projects',
-  //     description:
-  //       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
-  //   },
-  //   {
-  //     name: 'Yellow macaw',
-  //     category: 'projects',
-  //     description:
-  //       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
-  //   },
-  //   {
-  //     name: 'Pug smile',
-  //     category: 'projects',
-  //     description:
-  //       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
-  //   },
+    // {
+    //   name: 'Project 1',
+    //   category: 'projects',
+    //   description:
+    //     'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+    // },
+    // {
+    //   name: 'Green parrot',
+    //   category: 'projects',
+    //   description:
+    //     'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+    // },
+    // {
+    //   name: 'Yellow macaw',
+    //   category: 'projects',
+    //   description:
+    //     'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+    // },
+    // {
+    //   name: 'Pug smile',
+    //   category: 'projects',
+    //   description:
+    //     'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+    // },
   //   {
   //     name: 'Pancakes',
   //     category: 'food',
