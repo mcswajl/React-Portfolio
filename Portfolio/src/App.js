@@ -12,7 +12,7 @@ function App() {
     },
     { name: 'projects', description: 'Descriptions of the projects that I have worked on' },
     { name: 'resume', description: 'Skills, expereince' },
-    { name: 'landscape', description: 'Fields, farmhouses, waterfalls, and the beauty of nature' },
+    // { name: 'landscape', description: 'Fields, farmhouses, waterfalls, and the beauty of nature' },
   ]);
 
   const [currentCategory, setCurrentCategory] = useState(categories[0]);

@@ -78,7 +78,7 @@ describe('onClick events', () => {
     />);
     fireEvent.click(getByText('About me'))
     fireEvent.click(getByText('Contact'))
-    fireEvent.click(getByText('Projectss'))
+    fireEvent.click(getByText('Projects'))
 
     expect(mockSetContactSelected).toHaveBeenCalledTimes(3);
   });
