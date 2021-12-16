@@ -8,10 +8,10 @@ function App() {
   const [categories] = useState([
     {
       name: 'Portfolio',
-      description: 'Description of skills and expereince',
+      description: 'I have not added content, Just the functionality, I am not looking for a new job. Description of skills and expereince',
     },
-    { name: 'projects', description: 'Descriptions of the projects that I have worked on' },
-    { name: 'resume', description: 'Skills, expereince' },
+    { name: 'projects', description: 'I have not added content, Just the functionality, I am not looking for a new job. Descriptions of the projects that I have worked on' },
+    { name: 'resume', description: 'I have not added content, Just the functionality, I am not looking for a new job. Skills, expereince' },
     // { name: 'landscape', description: 'Fields, farmhouses, waterfalls, and the beauty of nature' },
   ]);
 
