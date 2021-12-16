@@ -10,7 +10,7 @@ function About() {
         I have been employed by Mecklenburg County for over 18 years. 
         I started as GIS analyst prior to being promoted to the Storm Water department 
         to manage the Flood Information and Notification Systems (FINS). 
-        BTW, I will be replacing the picture seen below.
+        BTW, That's my wife in the picture with me, been married since 2004.
         </p>
       </div>
     </section>
